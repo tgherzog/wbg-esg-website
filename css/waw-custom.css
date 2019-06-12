@@ -83,9 +83,27 @@
   padding-top: 0px;
 }
 
+/* BEGIN ESG styles added by Tim */
 .nobreak {
   white-space: nowrap;
 }
+
+.lp__banner_title {
+  line-height: 1.0em;
+}
+
+.indicators-list h6 {
+  margin-top: 1em;
+  margin-bottom: 0;
+}
+
+.indicators-list ul ul {
+  font-size: 0.75em;
+  line-height: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+/* END ESG styles added by Tim */
 
 /*.row.display-flex {
   display: flex;
