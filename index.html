@@ -17,6 +17,7 @@
 		<link rel="stylesheet" type="text/css" href="./css/clientlibs-wbrredsign.min.css">
 		<link rel="stylesheet" type="text/css" href="./css/loop.min.css">
 		<link rel="stylesheet" type="text/css" href="css/waw-custom.css">
+        <script type='text/javascript' src='https://dataviz.worldbank.org/javascripts/api/viz_v1.js'></script>
 		<script src="//assets.adobedtm.com/572ee9d70241b5c796ae15c773eaaee4365408ec/satelliteLib-efd6120a6f6ed94da49cf49e2ba626ac110c7e3c.js"></script>
 		<script type="text/JavaScript">
 			var wbgData = wbgData || {};
@@ -503,7 +504,7 @@
                 <div class="lable">Select an ESG profile</div>
                 
                 <!-- Begin Dropdown-v2 components -->
-                <div class="btn-group dropdown-group dropdown-group-inverse">
+                <div class="btn-group dropdown-group dropdown-group-inverse" id="dashboard-select">
                           <button class="dropdown-select-item dropdown-toggle" title="Country Region" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="filter-option">Select</span><span class="dropdwon-arrow"></span> </button>
                           <ul class="dropdown-menu dropdown-item">
   <li><a href="#">Afghanistan</a></li>
@@ -767,9 +768,17 @@
 <div class="row clearfix full-row-white-components">
 <!-- START Tableau -->
 
-<div class="container" id="placeholder-hp-image"> 
+<div class="container" id="hp-hero-viz"> 
 <h6>An ESG Data Overview</h6>
-<img src="images/placeholder1.png">
+
+
+<div class='tableauPlaceholder' style='width: 1200px; height: 727px;'>
+<object class='tableauViz' width='1200' height='727' style='display:none;'>
+<param name='host_url' value='https%3A%2F%2Fdataviz.worldbank.org%2F' />
+<param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;DECDG' /><param name='name' value='ESG_overview&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object>
+
+</div>
+
   </div>
         </div>
 <!-- END Tableau -->
@@ -828,9 +837,13 @@
               <div class="lp__card_content">
                 <h6 class="lp__card_title">Data</h6>
                 <ol class="lp__card_description">
-                <li>Download data: <a href="#">Excel</a> | <a href="#">CSV</a> | <a href="#">Data catalog</a></li>
+                <li>Download data:
+                  <a href="http://databank.worldbank.org/data/download/ESG_excel.zip">Excel</a> |
+                  <a href="http://databank.worldbank.org/data/download/ESG_csv.zip">CSV</a> |
+                  <a href="#">Data catalog</a></li>
+                <li><a href="data-explorer.html">Visualize</a></li>
                 <li><a href="https://databankqa.worldbank.org/source/environment-social-and-governance">Databank</a></li>
-                <li><a href="listing.html">API documentation</a></li>
+                <li><a href="listing.html">Documentation</a></li>
                 </ol>
               </div>
                     </div>
@@ -1176,5 +1189,16 @@
 <script type="text/javascript">
 			_satellite.pageBottom();
 		</script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+  $("#dashboard-select li a").each(function() {
+
+    $(this).attr('href', 'country-dashboards.html');
+    // $(this).attr('href', 'country-dashboards.html' + '?country=' + encodeURI($(this).text()));
+  });
+});
+</script>
 </body>
 </html>
