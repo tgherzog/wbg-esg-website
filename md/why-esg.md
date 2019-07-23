@@ -1,9 +1,9 @@
 
 A growing body of research demonstrating the materiality of ESG criteria
-indicates that investors should manage and assess ESG risks and opportunities
-associated with investments. While corporate disclosure of ESG criteria is
-becoming more mainstream, the World Bank has found ESG data in the fixed income
-space, particularly in sovereign fixed income, is lagging. Demand for better
+indicates that investors need to manage and assess ESG risks and opportunities
+associated with their investments. While corporate disclosure of ESG criteria is
+becoming more mainstream, the World Bank has found ESG data at the sovereign level
+is lagging. Demand for better
 country level ESG data from trusted sources was one of the findings of an
 ongoing joint research program between WBG and Japan’s [Government Pension
 Investment Fund][gpif] (GPIF).
@@ -41,7 +41,13 @@ The [ESG Data Draft Framework][fw] incorporates data relevant to all 17 Sustaina
 Development Goals. The Framework organizes data into themes the World Bank
 believes are crucial for financial sector representatives to consider when
 assessing the contribution of investments or policies to sustainable
-development.
+development. The initial set of indicators has been based on:
+
+* Survey of World Bank data currently used by investors
+* Indicators relevant to World Bank's own policy analysis
+* Other key indicators identified through analysis of World Bank expert teams
+* Availability, coverage, timeliness of data
+
 
 
 [gps]: https://www.worldbank.org/en/programs/global-program-on-sustainability
