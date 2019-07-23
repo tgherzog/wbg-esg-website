@@ -1,3 +1,6 @@
+---
+title: Knowledge Base
+---
 
 ### World Bank Reports
 

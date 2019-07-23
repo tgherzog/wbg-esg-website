@@ -1,3 +1,18 @@
+---
+title: Why ESG Matters
+moreinfo:
+  left:
+    - link:  esg-framework.html
+      title: ESG Data Draft Framework
+    - link:  http://documents.worldbank.org/curated/en/913961524150628959
+      title: Incorporating Environmental, Social and Governance Factors Into Fixed Income Investment
+    - link:  https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans
+      title: Sample animated story narrative
+  right:
+    - link:  https://www.worldbank.org/en/programs/global-program-on-sustainability
+      title: Global Program on Sustainability
+
+---
 
 A growing body of research demonstrating the materiality of ESG criteria
 indicates that investors need to manage and assess ESG risks and opportunities
