@@ -1,9 +1,14 @@
 
+siteEnvironment: qa
+
 defaults:
   -
     scope:
       path: ""
-      type: "pages"
+      type: pages
     values:
-      layout: "default"
+      layout: default
+      pageCategory: content page
+      siteEnvironment: qa
+
 
