@@ -113,6 +113,10 @@ body ul.more_resources li,
   margin-bottom: 0.5em;
 }
 
+.lp__card_content p {
+  margin: 0 0 1em;
+}
+
 .lp__body_content h3 {
   margin-top: 40px;
 }
