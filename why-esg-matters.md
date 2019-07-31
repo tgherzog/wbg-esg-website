@@ -52,8 +52,8 @@ Food security                          | Health & nutrition     | Gender
                                        | Access to services     | Innovation
 {: .table .table-striped :}
 
-The [ESG Data Draft Framework][fw] incorporates data relevant to all 17 Sustainable
-Development Goals. The Framework organizes data into themes the World Bank
+The [ESG Data Draft Framework][fw] incorporates data relevant to all 17 [Sustainable
+Development Goals][sdgs]. The Framework organizes data into themes the World Bank
 believes are crucial for financial sector representatives to consider when
 assessing the contribution of investments or policies to sustainable
 development. The initial set of indicators has been based on:
@@ -70,3 +70,4 @@ development. The initial set of indicators has been based on:
 [gpif]: https://www.gpif.go.jp/en/
 [fci]: https://www.worldbank.org/en/about/unit/fci
 [fw]: esg-framework.html
+[sdgs]: https://www.un.org/sustainabledevelopment/sustainable-development-goals

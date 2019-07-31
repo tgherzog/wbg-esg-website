@@ -121,6 +121,22 @@ body ul.more_resources li,
   margin-top: 40px;
 }
 
+.staff-profile img {
+  width: 80px;
+  float: left;
+  margin: 0 1rem 0 0;
+}
+
+.staff-profile p {
+  font-size: 0.9rem;
+  line-height: 1.1em;
+  margin: 0 0 0.5em;
+}
+
+.staff-profile p.name {
+  font-weight: bold;
+}
+
 /* END ESG styles added by Tim */
 
 /*.row.display-flex {
