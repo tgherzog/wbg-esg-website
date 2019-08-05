@@ -1,6 +1,10 @@
 ---
-title: Knowledge Base
+title: Research
 ---
+
+This page provides a selection of relevant publications from the World Bank Group and
+outside organizations. This body of work is not comprehensive. Outside publications are
+not endorsed by the World Bank Group.
 
 ### World Bank Reports
 

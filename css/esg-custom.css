@@ -137,6 +137,11 @@ body ul.more_resources li,
   font-weight: bold;
 }
 
+.photo-caption {
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
 /* END ESG styles added by Tim */
 
 /*.row.display-flex {
