@@ -49,6 +49,29 @@ body ul.more_resources li,
     margin: 0px;
 }
 
+.card_tile {
+  height: auto;
+}
+
+@media (min-width: 576px) {
+  .card_tile {
+    height: 335px;
+  }
+}
+
+@media (min-width: 768px) {
+  .card_tile {
+    height: 375px;
+  }
+}
+
+@media (min-width: 1200px) {
+    .card_tile {
+      height: 400px;
+    }
+}
+
+/*
 @media (min-width: 991px) {
   .card_tile {
     height: 400px !important;
@@ -72,6 +95,8 @@ body ul.more_resources li,
     height: 610px !important;
   }
 }
+
+/*
 
 .primary-btn {
   padding-bottom: 15px;
@@ -121,6 +146,10 @@ body ul.more_resources li,
   margin-top: 40px;
 }
 
+.lp__card_wrapper {
+  border-top: none;
+}
+
 .staff-profile img {
   width: 80px;
   float: left;
@@ -140,6 +169,18 @@ body ul.more_resources li,
 .photo-caption {
   font-size: 0.8rem;
   font-style: italic;
+}
+
+.home-cards .row > div {
+  padding-bottom: 30px;
+}
+
+.row.staff-profile > div, .row.featured-report > div {
+  padding-bottom: 1rem;
+}
+
+.full-row-gray-components {
+  padding: 24px 0;
 }
 
 /* END ESG styles added by Tim */
