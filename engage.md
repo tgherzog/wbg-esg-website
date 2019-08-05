@@ -11,7 +11,7 @@ research reports.
 
 ### Contact Information ###
 
-* Contact us at <esgdata@worldbank.org>.
+* Contact us at <esgdata@worldbank.org>
 
 * [Subscribe to email updates here](under-construction.html)
 
