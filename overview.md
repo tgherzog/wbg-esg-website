@@ -1,9 +1,9 @@
 ---
-title: Why ESG Matters
+title: Overview of the ESG Data Portal
 moreinfo:
   left:
-    - link:  esg-framework.html
-      title: ESG Data Draft Framework
+    - link:  methodology.html
+      title: ESG Data Methodology
     - link:  http://documents.worldbank.org/curated/en/913961524150628959
       title: Incorporating Environmental, Social and Governance Factors Into Fixed Income Investment
     - link:  https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans
@@ -37,7 +37,7 @@ natural capital accounting. Providing improved ESG data to the financial sector
 is a key component of the [Incentives][gps-themes] pillar of GPS, which is led by the
 [Finance, Competitiveness, and Innovation][fci] (FCI) Global Practice. 
 
-The World Bank’s [ESG Data Draft Framework][fw] provides information on 17
+The World Bank’s [ESG Data Methodology][fw] provides information on 17
 key sustainability themes spanning environmental, social, and governance
 categories:
 
@@ -52,22 +52,25 @@ Food security                          | Health & nutrition     | Gender
                                        | Access to services     | Innovation
 {: .table .table-striped :}
 
-The [ESG Data Draft Framework][fw] incorporates data relevant to all 17 [Sustainable
-Development Goals][sdgs]. The Framework organizes data into themes the World Bank
-believes are crucial for financial sector representatives to consider when
-assessing the contribution of investments or policies to sustainable
-development. The initial set of indicators has been based on:
+### How to use ESG data ###
 
-* Survey of World Bank data currently used by investors
-* Indicators relevant to World Bank's own policy analysis
-* Other key indicators identified through analysis of World Bank expert teams
-* Availability, coverage, timeliness of data
+This portal provides you several options for accessing and using the available data:
 
-
+* The [interactive data explorer](explorer.html) allows you to see all indicators for a
+  country, with regional and global aggregates for reference
+* The [country dashboards](dashboards.html) provide ESG profiles at the country level
+* You may download the bulk dataset from the [World Bank data catalog][ddh]
+* The dataset is also available via [Databank][databank] or [API][api1] (API docs [are here][api2])
+* **Documentation:** read the [ESG Data Methodology][fw] or [ESG Data Framework](framework.html)
+  to learn how the dataset was constructed
 
 [gps]: https://www.worldbank.org/en/programs/global-program-on-sustainability
 [gps-themes]: https://www.worldbank.org/en/programs/global-program-on-sustainability/priority-themes
 [gpif]: https://www.gpif.go.jp/en/
 [fci]: https://www.worldbank.org/en/about/unit/fci
-[fw]: esg-framework.html
+[fw]: methodology.html
 [sdgs]: https://www.un.org/sustainabledevelopment/sustainable-development-goals
+[ddh]: https://datacatalog.worldbank.org/dataset/environment-social-and-governance-data
+[databank]: https://databank.worldbank.org/source/environment-social-and-governance?preview=on
+[api1]: http://api.worldbank.org/sources/75
+[api2]: http://data.worldbank.org/developers
