@@ -13,11 +13,11 @@ research reports.
 
 * Contact us at <esgdata@worldbank.org>
 
-* [Subscribe to email updates here](under-construction.html)
+<!-- * [Subscribe to email updates here](under-construction.html) -->
 
 
 ### How To Engage ###
 
 * Request additional information on indicators
 * Suggest new indicators, relevant research, or products
-* [Take this 5-question survey](under-construction.html) to provide feedback on the Portal
+<!-- * [Take this 5-question survey](under-construction.html) to provide feedback on the Portal -->
