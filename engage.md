@@ -18,7 +18,6 @@ research reports.
 
 ### How To Engage ###
 
-* Send us your research or product launches to share on the Portal 
 * Request additional information on indicators
-* Suggest new indicators
+* Suggest new indicators, relevant research, or products
 * [Take this 5-question survey](under-construction.html) to provide feedback on the Portal

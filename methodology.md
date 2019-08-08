@@ -1,5 +1,5 @@
 ---
-title: ESG Data Methodology
+title: Sovereign ESG Data Methodology
 moreinfo:
   left:
     - link:  framework.html
@@ -78,8 +78,10 @@ legal systems and capacity to address environmental and social risks.</td>
 
 ### Next Steps ###
 
-The data in the ESG Data Framework will be expanded in the coming months and
-years to include new data that the WBG views as crucial to increase financial
+The Sovereign ESG Data Framework represents a first step in the effort to
+provide improved data and resources for ESG analysis and decision making. As
+the platform evolves and grows, the data in the ESG Data Framework will be expanded
+to include new data that the WBG views as crucial to increase financial
 flows to activities aligned with sustainable development. Such data will
 include information the World Bank has collected on natural capital and human
 capital, leveraging The [Changing Wealth of Nations][won] work. Additional data from

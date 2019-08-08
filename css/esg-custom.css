@@ -8,6 +8,10 @@
     font-size: 3.5rem;
     font-family: Andes, sans-serif;
   }
+
+  .lp__banner_description {
+    font-size: 1.75rem;
+  }
 }
 
 @media (min-width:991px) {
@@ -15,10 +19,14 @@
         height: 350px;
     }
 
-    .lp__banner_title {18
+    .lp__banner_title {
       font-weight: 600;
       font-size: 3.5rem;
     }
+
+  .lp__banner_description {
+    font-size: 2.5rem;
+  }
 }
 
 .additional_resources_card {
@@ -123,6 +131,10 @@ body ul.more_resources li,
   line-height: 1.0em;
 }
 
+.lp__banner_title .lp__banner_description {
+  font-weight: normal;
+}
+
 .lp__link_list, .lp__body_content ul, .lp__body_content ol {
   list-style: disc; /* restore */
   margin: 0 0 16px;
@@ -187,6 +199,11 @@ body ul.more_resources li,
 
 .full-row-gray-components {
   padding: 24px 0;
+}
+
+table.esg-framework .pillar {
+  text-transform: uppercase;
+  font-weight: bold;
 }
 
 /* END ESG styles added by Tim */

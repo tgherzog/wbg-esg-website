@@ -1,6 +1,13 @@
 ---
 title: Explore ESG Data
 dataviz: yes
+moreinfo:
+  left:
+    - link:  methodology.html
+      title: Sovereign ESG Data Methodology
+  right:
+    - link:  framework.html
+      title: Sovereign ESG Data Framework
 ---
 
 <div class='tableauPlaceholder' style='width: 1150px; height: 1027px;'>
