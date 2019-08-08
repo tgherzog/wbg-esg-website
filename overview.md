@@ -4,13 +4,15 @@ moreinfo:
   left:
     - link:  methodology.html
       title: ESG Data Methodology
+    - link:  framework.html
+      title: ESG Data Framework
     - link:  http://documents.worldbank.org/curated/en/913961524150628959
       title: Incorporating Environmental, Social and Governance Factors Into Fixed Income Investment
-    - link:  https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans
-      title: Sample animated story narrative
   right:
     - link:  https://www.worldbank.org/en/programs/global-program-on-sustainability
       title: Global Program on Sustainability
+    - link:  https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans
+      title: Sample animated story narrative
 
 ---
 

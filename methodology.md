@@ -2,6 +2,8 @@
 title: ESG Data Methodology
 moreinfo:
   left:
+    - link:  framework.html
+      title: ESG Data Framework
     - link:  http://documents.worldbank.org/curated/en/913961524150628959
       title: Incorporating Environmental, Social and Governance Factors Into Fixed Income Investment
   right:
