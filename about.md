@@ -6,9 +6,9 @@ moreinfo:
       title: Sovereign ESG Data Methodology
     - link:  framework.html
       title: Sovereign ESG Data Framework
+  right:
     - link:  http://documents.worldbank.org/curated/en/913961524150628959
       title: Incorporating Environmental, Social and Governance Factors Into Fixed Income Investment
-  right:
     - link:  https://www.worldbank.org/en/programs/global-program-on-sustainability
       title: Global Program on Sustainability
 
@@ -18,7 +18,7 @@ A growing body of research demonstrating the materiality of ESG criteria
 indicates that investors need to manage and assess ESG risks and opportunities
 associated with their investments – for all asset classes. Better ESG data can
 also help channel financial flows to more sustainable activities that are
-better aligned with the Sustainable Development Goals.
+better aligned with the [Sustainable Development Goals][sdgs].
 
 The World Bank Group (WBG) has been collaborating with investors and other
 market participants to provide financial markets with improved sovereign ESG
@@ -33,7 +33,7 @@ Innovation][fci] (FCI) Global Practice in collaboration with the [World Bank Tre
 Country Credit Risk Group and other groups.
 
 The [Sovereign ESG Data Framework][fw] incorporates data relevant to all 17
-Sustainable Development Goals. The Framework organizes data into themes the
+[Sustainable Development Goals][sdgs]. The Framework organizes data into themes the
 World Bank considers to be crucial for financial sector representatives to
 consider when assessing the contribution of investments or policies to
 sustainable development. The data set will evolve over time. The initial set of
