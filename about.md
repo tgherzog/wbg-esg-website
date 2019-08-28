@@ -1,5 +1,5 @@
 ---
-title: About the ESG Dataset
+title: About the Sovereign ESG Data Portal
 moreinfo:
   left:
     - link:  methodology.html

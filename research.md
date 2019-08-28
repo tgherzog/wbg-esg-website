@@ -31,6 +31,13 @@ not endorsed by the World Bank Group.
   an urgent concern today for all countries. The Changing Wealth of Nations
   2018 covers national wealth for 141 countries over 20 years (1995–2014).
 
+* [Financing Low-Carbon Transitions through Carbon Pricing and Green Bonds](http://documents.worldbank.org/curated/en/808771566321852359) \\
+  To finance the transition to low-carbon economies required to mitigate
+  climate change, countries are increasingly using a combination of carbon
+  pricing and green bonds. This paper studies the reasoning behind such policy
+  mixes and the economic interaction effects that result from these different
+  policy instruments.
+
 ### World Bank Press Releases & Blogs
 
 * [Finance Ministers Join Forces to Raise Climate Ambition](https://www.worldbank.org/en/news/press-release/2019/04/13/coalition-of-finance-ministers-for-climate-action)
@@ -83,6 +90,8 @@ not endorsed by the World Bank Group.
   (UNEP Finance Initiative)
 * [Analysing sovereign, municipal and supranational issuers](https://www.unpri.org/fixed-income/integrating-esg-factors-into-sovereign-issuer-analysis/31.article)
   (UN PRI)
+* [Artificial intelligence promises to enhance sustainable investing](https://www.ft.com/content/7c40cdfc-b528-11e9-bec9-fdcab53d6959)
+  (Financial Times)
 
 ### Sponsors & Partners
 
