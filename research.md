@@ -40,6 +40,8 @@ not endorsed by the World Bank Group.
 
 ### World Bank Press Releases & Blogs
 
+* [Greater transparency on environmental, social and governance (ESG) issues: New focus for sovereign debt issuers](https://blogs.worldbank.org/voices/greater-transparency-environmental-social-and-governance-esg-issues-new-focus-sovereign-debt)
+  (Sep 9, 2019)
 * [Finance Ministers Join Forces to Raise Climate Ambition](https://www.worldbank.org/en/news/press-release/2019/04/13/coalition-of-finance-ministers-for-climate-action)
   (Apr 13, 2019)
 * [World Bank Group and GPIF Deepen Partnership on Building Sustainable Capital Markets](https://www.worldbank.org/en/news/press-release/2019/04/08/world-bank-group-and-gpif-deepen-partnership-on-building-sustainable-capital-markets)
@@ -91,7 +93,7 @@ not endorsed by the World Bank Group.
 * [Analysing sovereign, municipal and supranational issuers](https://www.unpri.org/fixed-income/integrating-esg-factors-into-sovereign-issuer-analysis/31.article)
   (UN PRI)
 * [Artificial intelligence promises to enhance sustainable investing](https://www.ft.com/content/7c40cdfc-b528-11e9-bec9-fdcab53d6959)
-  (Financial Times)
+  (Financial Times - subscription required)
 
 ### Sponsors & Partners
 

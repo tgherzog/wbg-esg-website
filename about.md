@@ -109,7 +109,7 @@ This portal provides you several options for accessing and using the available d
   country, with regional and global aggregates for reference
 * The [country dashboards](dashboards.html) provide ESG profiles at the country level
 * You may download the bulk dataset from the [World Bank data catalog][ddh]
-* The dataset is also available via [Databank][databank] or [API][api1] (API docs [are here][api2])
+* The dataset is also available via [DataBank][databank] or [API][api1] (API docs [are here][api2])
 * **Documentation:** read the [Sovereign ESG Data Methodology][meth] or [Sovereign ESG Data Framework][fw]
   to learn how the dataset was constructed
 
