@@ -8,6 +8,12 @@ not endorsed by the World Bank Group.
 
 ### World Bank Reports
 
+* [Beyond Stranded Assets : Climate Strategies of Fossil Fuel-Dependent Countries](https://www.bookdepository.com/Beyond-Stranded-Assets-Grzegorz-Peszko/9781464813405) \\
+  Crossroads is the first comprehensive stocktaking of what the global
+  low-carbon transition may mean for fossil fuel-dependent countries (FFDCs)
+  and how they can manage it.
+
+  
 * [Incorporating Environmental, Social and Governance Factors Into Fixed Income Investment](http://documents.worldbank.org/curated/en/913961524150628959) \\
   The result of a partnership between the World Bank Group and Government
   Pension Investment Fund (GPIF) of Japan: to collaborate on initiatives that
