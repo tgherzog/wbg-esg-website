@@ -209,6 +209,18 @@ table.esg-framework .pillar {
   font-weight: bold;
 }
 
+#hp_teaser .lp__btn {
+  margin: 3px;
+}
+
+div.partner-logos > div {
+  margin: 12px 0 18px;
+}
+
+div.partner-logos img {
+  max-width: 200px;
+}
+
 /* END ESG styles added by Tim */
 
 /*.row.display-flex {

@@ -1,50 +1,32 @@
 ---
-title: Research
+title: World Bank ESG Resources
 ---
 
-This page provides a selection of relevant publications from the World Bank Group and
-outside organizations. This body of work is not comprehensive. Outside publications are
-not endorsed by the World Bank Group.
+This page provides a selection of relevant publications from the World Bank Group.
+For additional publications, please visit the [Research and Publications Library](https://www.worldbank.org/en/research)
+or the [Open Knowledge Repository](https://openknowledge.worldbank.org).
 
-### World Bank Reports
+### Reports
 
-* [Beyond Stranded Assets : Climate Strategies of Fossil Fuel-Dependent Countries](https://www.bookdepository.com/Beyond-Stranded-Assets-Grzegorz-Peszko/9781464813405) \\
-  Crossroads is the first comprehensive stocktaking of what the global
-  low-carbon transition may mean for fossil fuel-dependent countries (FFDCs)
-  and how they can manage it.
+* [Incorporating Environmental, Social and Governance Factors Into Fixed Income Investment](http://documents.worldbank.org/curated/en/913961524150628959)
+  <!-- (Apr 19, 2018) -->
 
+* [The Changing Wealth of Nations 2018](https://openknowledge.worldbank.org/handle/10986/29001)
+  <!-- (Jan 30, 2018) -->
+
+* [Beyond Stranded Assets : Climate Strategies of Fossil Fuel-Dependent Countries](https://www.bookdepository.com/Beyond-Stranded-Assets-Grzegorz-Peszko/9781464813405)
+  <!-- (Nov 30, 2019) -->
   
-* [Incorporating Environmental, Social and Governance Factors Into Fixed Income Investment](http://documents.worldbank.org/curated/en/913961524150628959) \\
-  The result of a partnership between the World Bank Group and Government
-  Pension Investment Fund (GPIF) of Japan: to collaborate on initiatives that
-  promote strategies for including environmental, social and governance (ESG)
-  criteria in investment decisions across asset classes.
+* [Governance Improvements and Sovereign Financing Costs in Developing Countries](http://documents.worldbank.org/curated/en/621451560196188919)
+  <!-- (Jun 10, 2019) -->
 
-* [Governance Improvements and Sovereign Financing Costs in Developing Countries](http://documents.worldbank.org/curated/en/621451560196188919) \\
-  Using a novel methodology based onestimating sovereign credit ratings using
-  the Moody's scorecard, and examining the associations between these ratings
-  and the World Bank's Country Policy and Institutional Assessment
-  (CPIA) scores, this paper examines how making improvements in the quality of
-  economic policies andinstitutions can help lower governments' financing costs.
+* [Lifelines: the Resilient Infrastructure Opportunity](https://openknowledge.worldbank.org/handle/10986/31805)
+  <!-- (Jun 19, 2019) -->
 
-* [The Changing Wealth of Nations 2018](https://openknowledge.worldbank.org/handle/10986/29001) \\
-  Countries regularly track gross domestic product (GDP) as an indicator of
-  their economic progress, but not wealth—the assets such as infrastructure,
-  forests, minerals, and human capital that produce GDP. In contrast,
-  corporations routinely report on both their income and assets to assess their
-  economic health and prospects for the future. Wealth accounts allow countries
-  to take stock of their assets to monitor the sustainability of development,
-  an urgent concern today for all countries. The Changing Wealth of Nations
-  2018 covers national wealth for 141 countries over 20 years (1995–2014).
+* [Financing Low-Carbon Transitions through Carbon Pricing and Green Bonds](http://documents.worldbank.org/curated/en/808771566321852359)
+  <!-- (Aug 20, 2019) -->
 
-* [Financing Low-Carbon Transitions through Carbon Pricing and Green Bonds](http://documents.worldbank.org/curated/en/808771566321852359) \\
-  To finance the transition to low-carbon economies required to mitigate
-  climate change, countries are increasingly using a combination of carbon
-  pricing and green bonds. This paper studies the reasoning behind such policy
-  mixes and the economic interaction effects that result from these different
-  policy instruments.
-
-### World Bank Press Releases & Blogs
+### Press Releases & Blogs
 
 * [Greater transparency on environmental, social and governance (ESG) issues: New focus for sovereign debt issuers](https://blogs.worldbank.org/voices/greater-transparency-environmental-social-and-governance-esg-issues-new-focus-sovereign-debt)
   (Sep 9, 2019)
@@ -60,9 +42,13 @@ not endorsed by the World Bank Group.
   (Jan 30, 2018)
 
 
+### Additional Databases
 
+* [Wealth Accounts](https://datacatalog.worldbank.org/dataset/wealth-accounting)
+* [Adjusted Net Savings](https://datacatalog.worldbank.org/dataset/adjusted-net-savings)
+* [World Development Indicators](https://datacatalog.worldbank.org/dataset/world-development-indicators)
 
-### World Bank Events
+### Events
 
 * [ESG Sovereign Investor Workshop](http://www.worldbank.org/en/events/2019/04/10/esg-sovereign-investor-workshop)
   (Apr 20, 2019)
@@ -70,36 +56,6 @@ not endorsed by the World Bank Group.
   (Dec 6, 2018)
 
 
-
-### Outside Reports & Publications
-
-* [The Role of ESG Factors in Sovereign Debt Investing](https://www.bluebay.com/en-us/insights/the-role-of-esg-factors-in-sovereign-debt-investing/)
-  (BlueBay)
-* [Pricing ESG Risk in Sovereign Credit](https://www.hermes-investment.com/wp-content/uploads/2019/07/bd03720-credit-research-paper-pricing-esg-in-sovereign-credit-q3-2019.pdf)
-  (Hermes Investment Management & Beyond Ratings)
-* [ESG Integration in Sovereign Portfolios](https://www.aegonassetmanagement.com/globalassets/asset-management/netherlands/news-insights/documents/2018/esg-integration-in-sovereign-portfolios.pdf)
-  (Aegeon Asset Management)
-* [Thoughts from a Renaissance man: ESG in EM and FM – really?](https://research.rencap.com/eng/download.asp?id=29402)
-  (Renaissance Capital)
-* [Sustainable Investing: A “Why Not” Moment](https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/sustainable-investing-is-the-answer)
-  (Blackrock)
-* [ESG in Sovereign Bonds](https://es.allianzgi.com/-/media/allianzgi/eu/makler-spain-new/documents/sri-seminar/esg-in-sovereign-bonds.pdf)
-  (Allianz Global Investors)
-
-### Outside Articles & Blogs
-
-* [The Investor Revolution](https://hbr.org/2019/05/the-investor-revolution)
-  (HBR)
-* [Beyond Ratings’ Sovereign ESG analysis can help identify seemingly undervalued Sovereign bond markets](https://beyond-ratings.com/publications/beyond-ratings-sovereign-esg-analysis-can-help-identify-investment-opportunities-in-sovereign-bond-markets/)
-  (Beyond Ratings)
-* [FTSE Russell launches first climate risk government bond index](https://www.ftserussell.com/press/ftse-russell-launches-first-climate-risk-government-bond-index)
-  (FTSE Russell)
-* [Environmental Risk in Sovereign Credit](https://www.unepfi.org/ecosystems/erisc/)
-  (UNEP Finance Initiative)
-* [Analysing sovereign, municipal and supranational issuers](https://www.unpri.org/fixed-income/integrating-esg-factors-into-sovereign-issuer-analysis/31.article)
-  (UN PRI)
-* [Artificial intelligence promises to enhance sustainable investing](https://www.ft.com/content/7c40cdfc-b528-11e9-bec9-fdcab53d6959)
-  (Financial Times - subscription required)
 
 ### Sponsors & Partners
 
