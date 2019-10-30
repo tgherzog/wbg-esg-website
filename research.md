@@ -28,6 +28,10 @@ or the [Open Knowledge Repository](https://openknowledge.worldbank.org).
 
 ### Press Releases & Blogs
 
+* [World Bank Launches Sovereign ESG Data Portal](https://www.worldbank.org/en/news/press-release/2019/10/29/world-bank-launches-sovereign-esg-data-portal)
+  (Oct 29, 2019)
+* [New resources for sovereign ESG data and investors](http://blogs.worldbank.org/opendata/new-resources-sovereign-esg-data-and-investors)
+  (Oct 29, 2019)
 * [Greater transparency on environmental, social and governance (ESG) issues: New focus for sovereign debt issuers](https://blogs.worldbank.org/voices/greater-transparency-environmental-social-and-governance-esg-issues-new-focus-sovereign-debt)
   (Sep 9, 2019)
 * [Finance Ministers Join Forces to Raise Climate Ambition](https://www.worldbank.org/en/news/press-release/2019/04/13/coalition-of-finance-ministers-for-climate-action)
