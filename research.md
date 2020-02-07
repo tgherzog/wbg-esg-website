@@ -28,6 +28,8 @@ or the [Open Knowledge Repository](https://openknowledge.worldbank.org).
 
 ### Press Releases & Blogs
 
+* [Does GDP growth necessitate environmental degradation?](https://blogs.worldbank.org/opendata/does-gdp-growth-necessitate-environmental-degradation)
+  (Jan 14, 2020)
 * [World Bank Launches Sovereign ESG Data Portal](https://www.worldbank.org/en/news/press-release/2019/10/29/world-bank-launches-sovereign-esg-data-portal)
   (Oct 29, 2019)
 * [New resources for sovereign ESG data and investors](http://blogs.worldbank.org/opendata/new-resources-sovereign-esg-data-and-investors)
@@ -51,9 +53,13 @@ or the [Open Knowledge Repository](https://openknowledge.worldbank.org).
 * [Wealth Accounts](https://datacatalog.worldbank.org/dataset/wealth-accounting)
 * [Adjusted Net Savings](https://datacatalog.worldbank.org/dataset/adjusted-net-savings)
 * [World Development Indicators](https://datacatalog.worldbank.org/dataset/world-development-indicators)
+* [Sustainable Development Goals](http://datatopics.worldbank.org/sdgs/)
+* [Global Electrification Platform](https://electrifynow.energydata.info)
 
 ### Events
 
+* Webinar: [ESG in Sovereign Debt Investing: Data and Integration Techniques](https://www.unpri.org/events/webinar-esg-in-sovereign-debt-investing-data-and-integration-techniques/5181.article)
+  (Jan 23, 2020, 16:00-17:00 GMT)
 * [ESG Sovereign Investor Workshop](http://www.worldbank.org/en/events/2019/04/10/esg-sovereign-investor-workshop)
   (Apr 20, 2019)
 * [Conference on Public Pension & Sovereign Funds](https://www8.gsb.columbia.edu/cjeb/sites/cjeb/files/CJEB-Report_Conference-Pension-Sovereign-Funds_2.08.19%20with%20pictures.pdf)

@@ -8,6 +8,8 @@ This body of work is not comprehensive. Outside publications are not endorsed by
 
 ### Reports & Publications
 
+* [Why climate change also matters for government bond investing](https://www.ftserussell.com/research/why-climate-change-also-matters-government-bond-investing)
+  (FTSE Russell)
 * [Sustainability: the Bond that Endures](https://www.blackrock.com/corporate/insights/blackrock-investment-institute/publications/esg-fixed-income)
   (Blackrock)
 * [The Role of ESG Factors in Sovereign Debt Investing](https://www.bluebay.com/en-us/insights/the-role-of-esg-factors-in-sovereign-debt-investing/)
