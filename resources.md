@@ -8,6 +8,8 @@ This body of work is not comprehensive. Outside publications are not endorsed by
 
 ### Reports & Publications
 
+* [Managing Climate Risk in the US Financial System](https://www.cftc.gov/sites/default/files/2020-09/9-9-20%20Report%20of%20the%20Subcommittee%20on%20Climate-Related%20Market%20Risk%20-%20Managing%20Climate%20Risk%20in%20the%20U.S.%20Financial%20System%20for%20posting.pdf)
+  (U.S. Commodity Futures Trading Commission)
 * [Why climate change also matters for government bond investing](https://www.ftserussell.com/research/why-climate-change-also-matters-government-bond-investing)
   (FTSE Russell)
 * [Sustainability: the Bond that Endures](https://www.blackrock.com/corporate/insights/blackrock-investment-institute/publications/esg-fixed-income)
