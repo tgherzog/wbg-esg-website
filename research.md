@@ -26,6 +26,15 @@ or the [Open Knowledge Repository](https://openknowledge.worldbank.org).
 * [Financing Low-Carbon Transitions through Carbon Pricing and Green Bonds](http://documents.worldbank.org/curated/en/808771566321852359)
   <!-- (Aug 20, 2019) -->
 
+* [An Analysis of Coverage Gaps in ESG Data][esg-gaps-html]: available in [HTML][esg-gaps-html] or [PDF][esg-gaps-pdf]
+  <!-- (Aug 26, 2020) -->
+
+* [Riding the Wave : Navigating the ESG Landscape for Sovereign Debt Managers](https://openknowledge.worldbank.org/handle/10986/34673)
+  <!-- (Oct 22, 2020) -->
+
+* [Engaging With Investors On Environmental, Social, and Governance (ESG) Issues](http://pubdocs.worldbank.org/en/375981604591250621/World-Bank-ESG-Guide-2020-FINAL-11-5-2020)
+  <!-- (Nov 5, 2020) -->
+
 ### Press Releases & Blogs
 
 * [Does GDP growth necessitate environmental degradation?](https://blogs.worldbank.org/opendata/does-gdp-growth-necessitate-environmental-degradation)
@@ -72,3 +81,5 @@ or the [Open Knowledge Repository](https://openknowledge.worldbank.org).
 * [Global Program on Sustainability](https://www.worldbank.org/en/programs/global-program-on-sustainability)
 * [World Bank Sustainable Bonds](http://treasury.worldbank.org/en/about/unit/treasury/ibrd/ibrd-sustainable-development-bonds)
 
+[esg-gaps-html]: https://worldbank.github.io/ESG_gaps_research/
+[esg-gaps-pdf]:  https://worldbank.github.io/ESG_gaps_research/ESG_gaps_research.pdf
