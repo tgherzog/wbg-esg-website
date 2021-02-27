@@ -1,6 +1,7 @@
 
-ignore:
+exclude:
     - rebuild.sh
+    - safe-listing.html
 
 siteEnvironment: prod
 
