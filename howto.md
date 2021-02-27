@@ -1,5 +1,5 @@
 ---
-title: How to Use the ESG Data Portal
+title: How to Use the Sovereign ESG Data Portal
 moreinfo:
   left:
     - link:  methodology.html

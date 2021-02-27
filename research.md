@@ -1,5 +1,5 @@
 ---
-title: World Bank ESG Resources
+title: World Bank Sovereign ESG Resources
 ---
 
 This page provides a selection of relevant publications from the World Bank Group.
@@ -26,7 +26,7 @@ or the [Open Knowledge Repository](https://openknowledge.worldbank.org).
 * [Financing Low-Carbon Transitions through Carbon Pricing and Green Bonds](http://documents.worldbank.org/curated/en/808771566321852359)
   <!-- (Aug 20, 2019) -->
 
-* [An Analysis of Coverage Gaps in ESG Data][esg-gaps-html]: available in [HTML][esg-gaps-html] or [PDF][esg-gaps-pdf]
+* [An Analysis of Coverage Gaps in Sovereign ESG Data][esg-gaps-html]: available in [HTML][esg-gaps-html] or [PDF][esg-gaps-pdf]
   <!-- (Aug 26, 2020) -->
 
 * [Riding the Wave : Navigating the ESG Landscape for Sovereign Debt Managers](https://openknowledge.worldbank.org/handle/10986/34673)

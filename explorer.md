@@ -1,5 +1,5 @@
 ---
-title: Explore ESG Data
+title: Explore Sovereign ESG Data
 dataviz: yes
 moreinfo:
   left:
