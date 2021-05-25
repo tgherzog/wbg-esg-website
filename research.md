@@ -17,9 +17,6 @@ or the [Open Knowledge Repository](https://openknowledge.worldbank.org).
 * [Beyond Stranded Assets : Climate Strategies of Fossil Fuel-Dependent Countries](https://www.bookdepository.com/Beyond-Stranded-Assets-Grzegorz-Peszko/9781464813405)
   <!-- (Nov 30, 2019) -->
   
-* [Governance Improvements and Sovereign Financing Costs in Developing Countries](http://documents.worldbank.org/curated/en/621451560196188919)
-  <!-- (Jun 10, 2019) -->
-
 * [Lifelines: the Resilient Infrastructure Opportunity](https://openknowledge.worldbank.org/handle/10986/31805)
   <!-- (Jun 19, 2019) -->
 
@@ -34,6 +31,12 @@ or the [Open Knowledge Repository](https://openknowledge.worldbank.org).
 
 * [Engaging With Investors On Environmental, Social, and Governance (ESG) Issues](http://pubdocs.worldbank.org/en/375981604591250621/World-Bank-ESG-Guide-2020-FINAL-11-5-2020)
   <!-- (Nov 5, 2020) -->
+
+* [Demystifying Sovereign ESG](https://openknowledge.worldbank.org/handle/10986/35586)
+  <!-- (Dec 31, 2020) -->
+
+* [Economic Governance Improvements and Sovereign Financing Costs in Developing Countries](https://documents.worldbank.org/curated/en/565681620234717531)
+  <!-- (May 5, 2021) -->
 
 ### Press Releases & Blogs
 
