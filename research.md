@@ -8,35 +8,35 @@ or the [Open Knowledge Repository](https://openknowledge.worldbank.org).
 
 ### Reports
 
+* [Economic Governance Improvements and Sovereign Financing Costs in Developing Countries](https://documents.worldbank.org/curated/en/565681620234717531)
+  <!-- (May 5, 2021) -->
+
+* [Demystifying Sovereign ESG](https://openknowledge.worldbank.org/handle/10986/35586)
+  <!-- (Dec 31, 2020) -->
+
+* [Engaging With Investors On Environmental, Social, and Governance (ESG) Issues](http://pubdocs.worldbank.org/en/375981604591250621/World-Bank-ESG-Guide-2020-FINAL-11-5-2020)
+  <!-- (Nov 5, 2020) -->
+
+* [Riding the Wave : Navigating the ESG Landscape for Sovereign Debt Managers](https://openknowledge.worldbank.org/handle/10986/34673)
+  <!-- (Oct 22, 2020) -->
+
+* [An Analysis of Coverage Gaps in Sovereign ESG Data][esg-gaps-html]: available in [HTML][esg-gaps-html] or [PDF][esg-gaps-pdf]
+  <!-- (Aug 26, 2020) -->
+
+* [Beyond Stranded Assets : Climate Strategies of Fossil Fuel-Dependent Countries](https://www.bookdepository.com/Beyond-Stranded-Assets-Grzegorz-Peszko/9781464813405)
+  <!-- (Nov 30, 2019) -->
+
+* [Financing Low-Carbon Transitions through Carbon Pricing and Green Bonds](http://documents.worldbank.org/curated/en/808771566321852359)
+  <!-- (Aug 20, 2019) -->
+ 
+* [Lifelines: the Resilient Infrastructure Opportunity](https://openknowledge.worldbank.org/handle/10986/31805)
+  <!-- (Jun 19, 2019) -->
+
 * [Incorporating Environmental, Social and Governance Factors Into Fixed Income Investment](http://documents.worldbank.org/curated/en/913961524150628959)
   <!-- (Apr 19, 2018) -->
 
 * [The Changing Wealth of Nations 2018](https://openknowledge.worldbank.org/handle/10986/29001)
   <!-- (Jan 30, 2018) -->
-
-* [Beyond Stranded Assets : Climate Strategies of Fossil Fuel-Dependent Countries](https://www.bookdepository.com/Beyond-Stranded-Assets-Grzegorz-Peszko/9781464813405)
-  <!-- (Nov 30, 2019) -->
-  
-* [Lifelines: the Resilient Infrastructure Opportunity](https://openknowledge.worldbank.org/handle/10986/31805)
-  <!-- (Jun 19, 2019) -->
-
-* [Financing Low-Carbon Transitions through Carbon Pricing and Green Bonds](http://documents.worldbank.org/curated/en/808771566321852359)
-  <!-- (Aug 20, 2019) -->
-
-* [An Analysis of Coverage Gaps in Sovereign ESG Data][esg-gaps-html]: available in [HTML][esg-gaps-html] or [PDF][esg-gaps-pdf]
-  <!-- (Aug 26, 2020) -->
-
-* [Riding the Wave : Navigating the ESG Landscape for Sovereign Debt Managers](https://openknowledge.worldbank.org/handle/10986/34673)
-  <!-- (Oct 22, 2020) -->
-
-* [Engaging With Investors On Environmental, Social, and Governance (ESG) Issues](http://pubdocs.worldbank.org/en/375981604591250621/World-Bank-ESG-Guide-2020-FINAL-11-5-2020)
-  <!-- (Nov 5, 2020) -->
-
-* [Demystifying Sovereign ESG](https://openknowledge.worldbank.org/handle/10986/35586)
-  <!-- (Dec 31, 2020) -->
-
-* [Economic Governance Improvements and Sovereign Financing Costs in Developing Countries](https://documents.worldbank.org/curated/en/565681620234717531)
-  <!-- (May 5, 2021) -->
 
 ### Press Releases & Blogs
 
