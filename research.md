@@ -8,19 +8,28 @@ or the [Open Knowledge Repository](https://openknowledge.worldbank.org).
 
 ### Reports
 
-* [A New Dawn – Rethinking Sovereign ESG](https://documents.worldbank.org/curated/en/694901623100755591)
+* A New Dawn – Rethinking Sovereign ESG:
+  [Full Report](https://documents.worldbank.org/curated/en/694901623100755591) |
+  [Abridged Report](https://documents.worldbank.org/curated/en/479341624946145041) |
+  [Headline Messages](https://documents.worldbank.org/curated/en/352121625037616857)
   <!-- (Jun 7, 2021) -->
 
 * [Economic Governance Improvements and Sovereign Financing Costs in Developing Countries](https://documents.worldbank.org/curated/en/565681620234717531)
   <!-- (May 5, 2021) -->
 
+* [Natural Capital and Sovereign Bonds](https://documents.worldbank.org/curated/en/628001617289818802)
+  <!-- (Apr 1, 2021) -->
+
 * [Demystifying Sovereign ESG](https://openknowledge.worldbank.org/handle/10986/35586)
   <!-- (Dec 31, 2020) -->
+
+* [Spatial Finance: Challenges and Opportunities in a Changing World](https://documents.worldbank.org/curated/en/850821606884753194)
+  <!-- (Dec 1, 2020) -->
 
 * [Engaging With Investors On Environmental, Social, and Governance (ESG) Issues](http://pubdocs.worldbank.org/en/375981604591250621/World-Bank-ESG-Guide-2020-FINAL-11-5-2020)
   <!-- (Nov 5, 2020) -->
 
-* [Riding the Wave : Navigating the ESG Landscape for Sovereign Debt Managers](https://openknowledge.worldbank.org/handle/10986/34673)
+* [Riding the Wave : Navigating the ESG Landscape for Sovereign Debt Managers](https://documents.worldbank.org/curated/en/186931603441706045)
   <!-- (Oct 22, 2020) -->
 
 * [An Analysis of Coverage Gaps in Sovereign ESG Data][esg-gaps-html]: available in [HTML][esg-gaps-html] or [PDF][esg-gaps-pdf]
