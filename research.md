@@ -8,6 +8,9 @@ or the [Open Knowledge Repository](https://openknowledge.worldbank.org).
 
 ### Reports
 
+* [A New Dawn – Rethinking Sovereign ESG](https://documents.worldbank.org/curated/en/694901623100755591)
+  <!-- (Jun 7, 2021) -->
+
 * [Economic Governance Improvements and Sovereign Financing Costs in Developing Countries](https://documents.worldbank.org/curated/en/565681620234717531)
   <!-- (May 5, 2021) -->
 
@@ -40,6 +43,10 @@ or the [Open Knowledge Repository](https://openknowledge.worldbank.org).
 
 ### Press Releases & Blogs
 
+* [Sovereign ESG investing: We can do better](https://blogs.worldbank.org/psd/sovereign-esg-investing-we-can-do-better)
+  (Jun 8, 2021)
+* [My word is my bond: Linking sovereign debt with national sustainability commitments](https://blogs.worldbank.org/climatechange/my-word-my-bond-linking-sovereign-debt-national-sustainability-commitments)
+  (Feb 11, 2021)
 * [Does GDP growth necessitate environmental degradation?](https://blogs.worldbank.org/opendata/does-gdp-growth-necessitate-environmental-degradation)
   (Jan 14, 2020)
 * [World Bank Launches Sovereign ESG Data Portal](https://www.worldbank.org/en/news/press-release/2019/10/29/world-bank-launches-sovereign-esg-data-portal)
