@@ -8,6 +8,11 @@ or the [Open Knowledge Repository](https://openknowledge.worldbank.org).
 
 ### Reports
 
+* The Economic Case for Nature:
+  [Full Report](https://www.worldbank.org/en/topic/environment/publication/the-economic-case-for-nature) |
+  [Key Findings](https://thedocs.worldbank.org/en/doc/81385f4e89ae1c1e2278e404728bc1d4-0320072021/original/GEEM-2pg-Jun28.pdf)
+  <!-- (Jun 30, 2021) -->
+
 * A New Dawn – Rethinking Sovereign ESG:
   [Full Report](https://documents.worldbank.org/curated/en/694901623100755591) |
   [Abridged Report](https://documents.worldbank.org/curated/en/479341624946145041) |
@@ -52,6 +57,8 @@ or the [Open Knowledge Repository](https://openknowledge.worldbank.org).
 
 ### Press Releases & Blogs
 
+* [Protecting Nature Could Avert Global Economic Losses of $2.7 Trillion Per Year](https://www.worldbank.org/en/news/press-release/2021/07/01/protecting-nature-could-avert-global-economic-losses-of-usd2-7-trillion-per-year)
+  (Jul 1, 2021)
 * [Sovereign ESG investing: We can do better](https://blogs.worldbank.org/psd/sovereign-esg-investing-we-can-do-better)
   (Jun 8, 2021)
 * [My word is my bond: Linking sovereign debt with national sustainability commitments](https://blogs.worldbank.org/climatechange/my-word-my-bond-linking-sovereign-debt-national-sustainability-commitments)
