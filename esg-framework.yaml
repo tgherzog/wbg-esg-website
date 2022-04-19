@@ -1,0 +1,108 @@
+# The ESG framework in YAML format
+- name: Environment Pillar
+  themes:
+    - name: Emissions & Pollution
+      vars:
+        - EN.ATM.CO2E.PC
+        - EN.CLC.GHGR.MT.CE
+        - EN.ATM.METH.PC
+        - EN.ATM.NOXE.PC
+        - EN.ATM.PM25.MC.M3
+    - name: Natural capital endowment and management
+      vars:
+        - NY.ADJ.DRES.GN.ZS
+        - NY.ADJ.DFOR.GN.ZS
+        - ER.H2O.FWTL.ZS
+        - AG.LND.FRST.ZS
+        - EN.MAM.THRD.NO
+        - ER.PTD.TOTL.ZS
+    - name: Energy use 
+      vars:
+        - EG.ELC.COAL.ZS
+        - EG.IMP.CONS.ZS
+        - EG.EGY.PRIM.PP.KD
+        - EG.USE.PCAP.KG.OE
+        - EG.USE.COMM.FO.ZS
+        - EG.ELC.RNEW.ZS
+        - EG.FEC.RNEW.ZS
+    - name: Environment/climate risk 
+      vars:
+        - EN.CLC.CDDY.XD
+        - EN.CLC.MDAT.ZS
+        - EN.CLC.HEAT.XD
+        - EN.CLC.PRCP.XD
+        - EN.CLC.SPEI.XD
+        - EN.POP.DNST
+    - name: Food Security
+      vars:
+        - AG.LND.AGRI.ZS
+        - NV.AGR.TOTL.ZS
+        - AG.PRD.FOOD.XD
+- name: Social Pillar
+  themes:
+    - name: Education 
+      vars:
+        - SE.XPD.TOTL.GB.ZS
+        - SE.ADT.LITR.ZS
+        - SE.PRM.ENRR
+    - name: Employment
+      vars:
+        - SL.TLF.0714.ZS
+        - SL.TLF.ACTI.ZS
+        - SL.UEM.TOTL.ZS
+    - name: Demography
+      vars:
+        - SP.DYN.TFRT.IN
+        - SP.DYN.LE00.IN
+        - SP.POP.65UP.TO.ZS
+    - name: Poverty 
+      vars:
+        - SI.SPR.PCAP.ZG
+        - SI.POV.GINI
+        - SI.DST.FRST.20
+        - SI.POV.NAHC
+    - name: Health 
+      vars:
+        - SH.DTH.COMM.ZS
+        - SH.MED.BEDS.ZS
+        - SH.DYN.MORT
+        - SH.STA.OWAD.ZS
+        - SN.ITK.DEFC.ZS
+    - name: Access to Services
+      vars:
+        - EG.CFT.ACCS.ZS
+        - EG.ELC.ACCS.ZS
+        - SH.H2O.SMDW.ZS
+        - SH.STA.SMSS.ZS
+- name: Governance Pillar
+  themes:
+    - name: Human Rights
+      vars:
+        - IC.LGL.CRED.XQ
+        - VA.EST
+    - name: Government Effectiveness
+      vars:
+        - GE.EST
+        - RQ.EST
+    - name: Stability 
+      vars:
+        - CC.EST
+        - SM.POP.NETM
+        - PV.EST
+        - RL.EST
+    - name: Economic Environment
+      vars:
+        - IC.BUS.EASE.XQ
+        - NY.GDP.MKTP.KD.ZG
+        - IT.NET.USER.ZS
+    - name: Gender
+      vars:
+        - SG.GEN.PARL.ZS
+        - SL.TLF.CACT.FM.ZS
+        - SE.ENR.PRSC.FM.ZS
+        - SP.UWT.TFRT
+    - name: Innovation
+      vars:
+        - IP.PAT.RESD
+        - GB.XPD.RSDV.GD.ZS
+        - IP.JRN.ARTC.SC
